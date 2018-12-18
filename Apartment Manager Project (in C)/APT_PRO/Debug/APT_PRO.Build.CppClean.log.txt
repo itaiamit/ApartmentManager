@@ -1,0 +1,6 @@
+c:\users\nitsanra\documents\visual studio 2013\projects\apt_pro\apt_pro\debug\vc120.pdb
+c:\users\nitsanra\documents\visual studio 2013\projects\apt_pro\apt_pro\debug\vc120.idb
+c:\users\nitsanra\documents\visual studio 2013\projects\apt_pro\apt_pro\debug\main.obj
+c:\users\nitsanra\documents\visual studio 2013\projects\apt_pro\apt_pro\debug\apt_pro.tlog\cl.command.1.tlog
+c:\users\nitsanra\documents\visual studio 2013\projects\apt_pro\apt_pro\debug\apt_pro.tlog\cl.read.1.tlog
+c:\users\nitsanra\documents\visual studio 2013\projects\apt_pro\apt_pro\debug\apt_pro.tlog\cl.write.1.tlog
