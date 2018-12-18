@@ -1,0 +1,13 @@
+﻿Build started 09/06/2016 20:02:42.
+     1>Project "c:\Users\nitsanra\documents\visual studio 2013\Projects\APT_PRO\APT_PRO\APT_PRO.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\nitsanra\documents\visual studio 2013\Projects\APT_PRO\Debug\APT_PRO.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\nitsanra\documents\visual studio 2013\Projects\APT_PRO\Debug\APT_PRO.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\nitsanra\documents\visual studio 2013\Projects\APT_PRO\Debug\APT_PRO.lib" /MACHINE:X86 Debug\Dlist_func.obj
+         Debug\functions.obj
+         Debug\Hlist_func.obj
+         Debug\main.obj
+         APT_PRO.vcxproj -> c:\users\nitsanra\documents\visual studio 2013\Projects\APT_PRO\Debug\APT_PRO.exe
+     1>Done Building Project "c:\Users\nitsanra\documents\visual studio 2013\Projects\APT_PRO\APT_PRO\APT_PRO.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.19

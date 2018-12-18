@@ -1,0 +1,5 @@
+﻿  files.c
+c:\users\ניצן רביב\desktop\apt_pro_n\apt_pro\files.c(124): warning C4101: 'temp': unreferenced local variable
+c:\users\ניצן רביב\desktop\apt_pro_n\apt_pro\files.c(222): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+c:\users\ניצן רביב\desktop\apt_pro_n\apt_pro\files.c(207): warning C4101: 'i': unreferenced local variable
+  APT_PRO.vcxproj -> C:\Users\ניצן רביב\Desktop\APT_PRO_n\Debug\APT_PRO.exe
